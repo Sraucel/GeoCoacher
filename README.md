@@ -1,2 +1,2 @@
 # GeoCoacher
-The Best Geography Knowledge Company!
+The Best Geography Tutoring Company!
