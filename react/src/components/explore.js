@@ -4,6 +4,8 @@ import lessonsImage from '../pictures/lessons.jpg';
 import virtualMapsImage from '../pictures/virtual maps.webp';
 import quizzesImage from '../pictures/quizzes.webp';
 import otherImage from '../pictures/other.jpg';
+import virtualmapspng from '../pictures/virtual maps.png'
+import chatroom from '../pictures/chatroom.png'
 
 const Explore = () => {
     const items = [
@@ -14,19 +16,19 @@ const Explore = () => {
             link: "/resource1"
         },
         {
-            image: virtualMapsImage,
+            image: virtualmapspng,
             title: "Interactive Maps",
-            description: "Interactive maps and websites that can be used for learning, studying and teaching",
+            description: "Interactive maps and websites",
             link: "/resource2"
         },
         {
             image: quizzesImage,
             title: "Games",
-            description: "Any other learning resources such as quizzes, or virtual tours",
+            description: "Games and fun activities",
             link: "/resource4"
         },
         {
-            image: quizzesImage,
+            image: chatroom,
             title: "Forums",
             description: "Group forums used to interact with other individuals",
             link: "/resource3"
@@ -34,13 +36,13 @@ const Explore = () => {
         {
             image: otherImage,
             title: "Case Study and Analysis Tools",
-            description: "Any other learning resources such as quizzes, or virtual tours",
+            description: "Any tools that can be used to learn",
             link: "/resource4"
         },
         {
-            image: otherImage,
+            image: virtualMapsImage,
             title: "Design your own ...",
-            description: "Any other learning resources such as quizzes, or virtual tours",
+            description: "Design whatever you want on a virtual map",
             link: "/resource4"
         }
     ];

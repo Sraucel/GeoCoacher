@@ -1,8 +1,7 @@
-/* Basic styling for the app */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: none; /* Ensure no background here */
+  background: none; 
   color: white;
 }
 

@@ -35,17 +35,17 @@
   }
   
   .navbar-links li a {
-    color: rgb(10, 73, 73);
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 10px 20px;
     text-decoration: none;
     transition: background-color 0.3s;
-    border: 3px ridge rgb(191, 232, 235);
+    border: 3px ridge rgb(214, 228, 230);
     
     
   }
   
   .navbar-links li a:hover {
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(130, 189, 189, 0.2);
   }
   
