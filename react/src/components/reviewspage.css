@@ -39,6 +39,15 @@ body, html {
     width: 30%;
     min-width: 300px;
     text-align: center;
+    border: 2px black dashed;
+}
+
+.review-box img {
+    width: 350px;
+    height: 290px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: 2px black solid;
 }
 
 .review-box h2 {
@@ -46,7 +55,53 @@ body, html {
     margin-bottom: 10px;
 }
 
+.review-box h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: #666;
+}
+
 .review-box p {
     font-size: 1em;
     color: #666;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.statistics-section {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 40px;
+    width: 90%;
+    max-width: 1200px;
+    text-align: center;
+}
+
+.statistics-content {
+    display: flex;
+    align-items: flex-start;
+}
+
+.about-us-image {
+    flex: 1;
+    width: 300px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.statistics-text {
+    flex: 2;
+}
+
+.statistics-section h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.statistics-section p {
+    font-size: 1.2em;
+    color: #333;
+    margin: 10px 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
