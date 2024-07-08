@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GeoCoacher/static/css/main.6fa20ae7.css",
-    "main.js": "/GeoCoacher/static/js/main.cd25d65d.js",
+    "main.css": "/GeoCoacher/static/css/main.7710985c.css",
+    "main.js": "/GeoCoacher/static/js/main.392e297a.js",
     "static/js/453.67280bcc.chunk.js": "/GeoCoacher/static/js/453.67280bcc.chunk.js",
     "static/media/background.jpg": "/GeoCoacher/static/media/background.8e9a038173aaef1fca81.jpg",
     "static/media/virtual maps.png": "/GeoCoacher/static/media/virtual maps.8ea09573400e8166046d.png",
@@ -9,16 +9,19 @@
     "static/media/lessons.jpg": "/GeoCoacher/static/media/lessons.e27bea34e4c2eda482fe.jpg",
     "static/media/virtual maps.webp": "/GeoCoacher/static/media/virtual maps.6a53a94888c57278d954.webp",
     "static/media/chatroom.png": "/GeoCoacher/static/media/chatroom.360d444dcd8999a0a57a.png",
+    "static/media/person3.jpg": "/GeoCoacher/static/media/person3.fd84048f2eaa9987194f.jpg",
+    "static/media/person1.webp": "/GeoCoacher/static/media/person1.e23d6bdc5db291b74a8c.webp",
     "static/media/other.jpg": "/GeoCoacher/static/media/other.573c7922002b233408ae.jpg",
+    "static/media/person2.webp": "/GeoCoacher/static/media/person2.adb02be272908dd29e29.webp",
     "static/media/logo.png": "/GeoCoacher/static/media/logo.cb2561e7a7cb29d0e2a1.png",
     "static/media/quizzes.webp": "/GeoCoacher/static/media/quizzes.e577feb480a6d9337515.webp",
     "index.html": "/GeoCoacher/index.html",
-    "main.6fa20ae7.css.map": "/GeoCoacher/static/css/main.6fa20ae7.css.map",
-    "main.cd25d65d.js.map": "/GeoCoacher/static/js/main.cd25d65d.js.map",
+    "main.7710985c.css.map": "/GeoCoacher/static/css/main.7710985c.css.map",
+    "main.392e297a.js.map": "/GeoCoacher/static/js/main.392e297a.js.map",
     "453.67280bcc.chunk.js.map": "/GeoCoacher/static/js/453.67280bcc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fa20ae7.css",
-    "static/js/main.cd25d65d.js"
+    "static/css/main.7710985c.css",
+    "static/js/main.392e297a.js"
   ]
 }
